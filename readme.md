@@ -24,8 +24,12 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Designing for VR: Environments and Interactions](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions) - Liv Erickson, Just A/VR (MSDN)
 - [Designing for VR: Input, Planning, and Testing](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing) - Liv Erickson, Just A/VR (MSDN)
 - [Future VR Input & UX Solutions](https://www.youtube.com/watch?v=ILw_-rNNsxE) - Stephen Tanguay
-- [Building Better Worlds - Virtual Wearable Interfaces + More] (https://youtu.be/kX5mMfhRjJo?t=32m20s) - David Holz (Leap Motion)
-- [Documentation for Focal Point VR - An interaction design framework for Unity] (https://www.youtube.com/watch?v=zzItw0i45Do) - Albert Huang
+- [Building Better Worlds - Virtual Wearable Interfaces + More](https://youtu.be/kX5mMfhRjJo?t=32m20s) - David Holz (Leap Motion)
+- [Documentation for Focal Point VR - An interaction design framework for Unity](https://www.youtube.com/watch?v=zzItw0i45Do) - Albert Huang
+- [VRTX - 3D Modeling Prototype - Circle Menu, Rotation Lock](https://www.youtube.com/watch?v=zzItw0i45Do) - [Blackish Games](http://blackish-games.com/)
+
+
+
 
 ## Articles/Slides
 
